@@ -10,8 +10,4 @@ public class TodolistApplication {
 		SpringApplication.run(TodolistApplication.class, args);
 	}
 
-	public static void {
-		Test test = new branchTest;
-	}
-
 }
